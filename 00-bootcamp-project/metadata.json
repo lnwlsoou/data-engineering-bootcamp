@@ -1,0 +1,37 @@
+{
+    "addresses": {
+        "columns": ["address_id", "address", "zipcode", "state", "country"],
+        "parse_dates": [],
+        "partitioning": null
+    },
+    "events": {
+        "columns": ["event_id", "session_id", "page_url", "created_at", "event_type", "user", "order", "product"],
+        "parse_dates": ["created_at"],
+        "partitioning": "created_at"
+    },
+    "order_items": {
+        "columns": ["order_id", "product_id", "quantity"],
+        "parse_dates": [],
+        "partitioning": null
+    },
+    "orders": {
+        "columns": ["order_id", "created_at", "order_cost", "shipping_cost", "order_total", "tracking_id", "shipping_service", "estimated_delivery_at", "delivered_at", "status", "user", "promo", "address"],
+        "parse_dates": ["created_at"],
+        "partitioning": "created_at"
+    },
+    "products": {
+        "columns": ["product_id", "name", "price", "inventory"],
+        "parse_dates": [],
+        "partitioning": null
+    },
+    "promos": {
+        "columns": ["promo_id", "discount", "status"],
+        "parse_dates": [],
+        "partitioning": null
+    },
+    "users": {
+        "columns": ["user_id", "first_name", "last_name", "email", "phone_number", "created_at", "updated_at", "address_id"],
+        "parse_dates": ["created_at", "updated_at"],
+        "partitioning": "created_at"
+    }
+}
