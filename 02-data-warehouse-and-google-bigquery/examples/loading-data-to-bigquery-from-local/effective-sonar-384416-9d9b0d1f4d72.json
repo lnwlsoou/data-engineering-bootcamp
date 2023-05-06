@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "effective-sonar-384416",
+  "private_key_id": "9d9b0d1f4d72130931a1a17634fdb23ab345a6cc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCa+k6TyPqkrGtm\nVXgCsYWeGLfKj+CbgHLhyhH8oO9DXrcTw2WaG0+4D7eFhKss26TZBw35Se/KIaof\nMZjiCPDeyZ+SkqcjTHG0n1j4lfwKwZlzDeNfAfSJ/aZuDWmjYD3IiuvgZQe4i2Z4\nIcjiVi9bG+GnExiiFFNCRTWg7roWPHESsxOhOlt7CsdrxSvL97e3tz7utsFH9rNV\n7+QVQVBNF/g1z5bIKCF4tAAmnEKZY2ZD9ti8nAv8ZQEn16xValCR5x0Rwy4xok0B\nxFlOvOjaI5BgMUHLRxM31tV4T98xEeoIFDaJi/9K7yBIxrHkyHR0EPvL7MAA53qK\nWz+nlI4/AgMBAAECggEAKvoK3FS5nPzrc59z/ls4UJVOMnAfuz+tnAurXUFL2ITl\nhCeFf2zfeI1zOSWHSpNGbaDVMTJdutIHGUtpuBT+pumGxODCVLmYNpyR0a3WDS2O\n3icVzH0AUVvz0UUK7HF98KUFsF6T+4s8yUelK4725u8ebnSPOjMku5Xxv0U0eYGu\nq+uFXGl1IxWB0n9+4/Qg8ehbeSRKMJdl6jYZgB7au1YVjuEgQnbX0n6KajJthlBc\nSogRqxUVIQl27/46GsX7eecNFrVK47mkdo6SuAc6U1yOELBR4Gz32EKViZU21Gvx\n5tFgw45sO90HAUUt23XB9RNsn4XGptkv3u7js/bywQKBgQDUqlU0LNSyaOoyZFvl\niXKp0UAQgRZ/8oqne4kZnLHaBhHFMR6pK/vQwNAoJ3GSVtRTfmNCbPMmJOzEallD\numcykJRdIEPwf24Mi1s6DYi8wWm+obozMkYm3yybBN8tYAORdZxjNPQKYyALvXuj\nOAFQD/ueBBHE58cVHhqrKmN3MQKBgQC6jrTLQZdcxemiPdlvrjxNHjMniHo0P9kX\n6pJ2NH3Xqm6e52khK7kAuAaYZuJ1ifLZte+YLrdKcU8ppawElJZ0L27+EPW9E3mU\nqorpIKpvDauEFYomVhU7RG5r+aQ+Zo32CyOuaWyaTMnFi5m55WGPzKrEbTEg8+Kh\n/cAiaHngbwKBgCtedTPHtLSRirkuGEOOLTEOeEclXCZJmxcerU3o06hHtpYFN2B+\nlML0nz6hFJsoU/KXAr0IJOnxe8tueLfEKsl4DJmVO+Wuxw2N2dPT8L+1nc//gU5x\ngTbqKlmOu8iwHOosFvFwWhhIML/UK4OUp0fhiommAM2sCsB2vC+N3GzxAoGBAK1S\nHefkhVJ80QWZfqSCdKWVFCN7aUWXuAK/PNkzBWNThTh+eC6IJ3XigsYed/CJfCUG\nIZX6ePFhehGQSNNslKdW1kCW0yeZq1ASbcIPRiisw5eQR2w8d7c7aXdJVG1g7C0V\nxk2oxmxIQQEWJHkQAecOV+zsIUOjMgAb9uBAvlJjAoGAa09S338zl9T2FrAQINtz\ni3l30H2h3zz78iECXs9FDGyYI+rcQ7/JK0Fb7sSrD8ZwOv2sA3ux/c+mphZ/QIFR\nSZrqFGYtytPwa9b3lyUcdgsGo1KVbdnrEHrQ3Jmp/uNiYaPBOdhHvavuP1yX7WlY\nOYLlMRk6wA76RseogCd34zI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "deb-bigquery-workshop-day2@effective-sonar-384416.iam.gserviceaccount.com",
+  "client_id": "100373833790722027840",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deb-bigquery-workshop-day2%40effective-sonar-384416.iam.gserviceaccount.com"
+}
