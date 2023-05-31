@@ -1,0 +1,21 @@
+networkrail:
+  target: dbt_sopap
+
+  outputs:
+    dbt_sopap:
+      type: bigquery
+      method: service-account
+      project: effective-sonar-384416
+      dataset: dbt_sopap
+      threads: 1
+      keyfile: C:\Users\sopap\mygit\data-engineering-bootcamp\07-end-to-end-project\dags\effective-sonar-384416-9b7cda7f9d30-bigquery-and-gcs.json
+      location: asia-southeast1
+
+    prod:
+      type: bigquery
+      method: service-account
+      project: effective-sonar-384416
+      dataset: networkrail
+      threads: 1
+      keyfile: C:\Users\sopap\mygit\data-engineering-bootcamp\07-end-to-end-project\dags\effective-sonar-384416-9b7cda7f9d30-bigquery-and-gcs.json
+      location: asia-southeast1
